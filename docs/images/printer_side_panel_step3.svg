@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450">
+  <rect width="600" height="450" fill="#f9f5e6"/>
+  <rect x="140" y="100" width="320" height="260" rx="25" fill="#ffffff" stroke="#555" stroke-width="6"/>
+  <rect x="180" y="240" width="120" height="80" rx="12" fill="#dceefd" stroke="#336699" stroke-width="4"/>
+  <circle cx="420" cy="180" r="28" fill="#ffd27f" stroke="#cc8400" stroke-width="5"/>
+  <text x="300" y="80" font-size="48" font-weight="bold" text-anchor="middle" fill="#ff7f27">3</text>
+  <text x="300" y="130" font-size="26" text-anchor="middle" fill="#20262e">Press the side door release</text>
+  <text x="300" y="170" font-size="22" text-anchor="middle" fill="#20262e">to open the maintenance access panel.</text>
+  <line x1="240" y1="260" x2="240" y2="210" stroke="#ff7f27" stroke-width="6" marker-end="url(#arrow)"/>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#ff7f27"/>
+    </marker>
+  </defs>
+</svg>
